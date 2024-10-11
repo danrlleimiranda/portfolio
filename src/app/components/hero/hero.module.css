@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 500;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  }
+
+
+.heroFont {
+    font-family: "Oswald"
+}
+
+.hero {
+    display: flex;
+    align-self: center;
+    height: 100vh;
+}
